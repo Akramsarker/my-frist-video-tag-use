@@ -1,0 +1,110 @@
+h1 {
+    color:red;
+    font: size 2;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    flex-direction: column;
+    font: 10em sans-serif;
+    text-align: center;
+   }
+   /* unvisited link */
+body {
+    background-image: url(img_flwr.gif), url(img.jpg);  
+     background-size: 800px 700px;
+     }
+P {
+    color: magenta;
+    font: size 2;
+    font-style:inherit;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    flex-direction: column;
+    font: 7em sans-serif;
+    text-align: center;
+    border: 10px solid gold;
+
+}   
+ul {
+    color:chartreuse;
+    font: size 2;
+    font-style:inherit;
+    font-weight: 100;
+    flex-direction: column;
+    font: 5em sans-serif;
+    text-align:left;
+    border: 10px solid darkblue;   
+   }
+ol {
+
+    color:lime;
+    font: size 2;
+    font-style:initial;
+    font-weight: 400;
+    font: 3em sans-serif;
+    text-align: center;
+    border: 10px solid blue;
+   }
+   table {
+    color:tomato;
+    font: 3em sans-serif;
+    border: 10px solid yellow;
+   }
+a {
+    background-color: #f44336;
+    color: white;
+    text-align: center;
+    font: 2em sans-serif;
+   
+    }
+video {
+        border: 4px groove darkblue;
+        padding: 20;
+        width: auto;
+        height: auto;
+      }
+h2 {
+    color:maroon;
+    font: size 2;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    flex-direction: column;
+    font: 10em sans-serif;
+    text-align: center;
+
+} 
+h3 {
+    color:mediumblue;
+    font: size 2;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    flex-direction: column;
+    font: 10em sans-serif;
+    text-align: center;
+  
+} 
+h4 {
+    color:indigo;
+    font: size 2;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    flex-direction: column;
+    font: 10em sans-serif;
+    text-align: center;
+   }
+H5 {
+    color:mediumspringgreen;
+    font: size 2;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    flex-direction: column;
+    font: 20em sans-serif;
+    text-align: center;
+
+
+
+}       
